@@ -1,2 +1,2 @@
 # hello-world
-I am learning the github functions.
+I am learning github functions.
